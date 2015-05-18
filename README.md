@@ -1,2 +1,2 @@
-# BFI
-Bruteforce Function Identifier. A master thesis project done on the Vrije Universiteit.
+# BruteforceFunctionIdentifier
+Result of my master thesis on the Vrije Universiteit. A bruteforce function identifier for 32-bit platforms.
